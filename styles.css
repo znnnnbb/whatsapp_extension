@@ -1,0 +1,21 @@
+.popup {
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  button {
+    margin-top: 10px;
+    width: 100%;
+    padding: 10px;
+    background-color: #25D366;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #1EBB59;
+  }
+  
